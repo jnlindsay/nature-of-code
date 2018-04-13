@@ -1,5 +1,5 @@
 var bar = [];
-var vel = 10;
+var vel = 100;
 
 function setup() {
 
