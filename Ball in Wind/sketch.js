@@ -13,6 +13,10 @@ function setup() {
 function draw() {
 
 	background(0);
+
+	var gravity = new p5.Vector(0, 1);
+	ball.applyForce(gravity);
+
 	ball.show();
 	ball.move();
 
