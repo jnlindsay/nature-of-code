@@ -4,7 +4,7 @@ var path = [];
 
 function setup() {
 
-	createCanvas(850, 550);
+	createCanvas(windowWidth, windowHeight);
 	attractor = new Attractor();
 
 	for(let i = 0; i < 5; i++) {
