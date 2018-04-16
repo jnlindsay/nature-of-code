@@ -13,7 +13,6 @@ function setup() {
 		movers[i] = new Mover(randPos[0], randPos[1], diameter);
 	}
 
-
 }
 
 function draw() {
