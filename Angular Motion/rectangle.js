@@ -18,19 +18,12 @@ function Rectangle() {
     this.a += this.aV;
 
     push();
-    stroke(255);
     translate(width/2, height/2); // centre rectangle
+    stroke(255);
     rotate(this.a);
     rect(-this.x, -this.y, this.width, this.height);
     pop();
 
   }
-
-  this.spin = function() {
-
-
-
-  }
-
 
 }
