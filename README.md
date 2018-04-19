@@ -6,7 +6,7 @@
 - [Circular Motion](https://alpha.editor.p5js.org/remylindsay/sketches/rJkx1Gzhf)
 - [Curve Tracer](https://alpha.editor.p5js.org/remylindsay/sketches/rkPDZUe3G)
 - [Gravity](https://alpha.editor.p5js.org/remylindsay/sketches/SJqhkMGhz)
-- [Particles](https://alpha.editor.p5js.org/remylindsay/sketches/B1Th33Bhz)
+- [Particle Systems](https://alpha.editor.p5js.org/remylindsay/sketches/B1Th33Bhz)
 - [Pendulum](https://alpha.editor.p5js.org/remylindsay/sketches/ryHQJUS3G)
 - [Perlin Noise](https://alpha.editor.p5js.org/remylindsay/sketches/Hk17KmAjM)
 - [Perlin Walker](https://alpha.editor.p5js.org/remylindsay/sketches/rkHx_XAiM)
