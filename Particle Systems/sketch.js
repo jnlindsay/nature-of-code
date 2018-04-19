@@ -5,7 +5,7 @@ var particleSystem;
 
 function setup() {
 
-	createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth, windowHeight);
 
   particleSystem = new ParticleSystem(width/2, height/10, 0.2, "square");
 
