@@ -4,7 +4,6 @@
 - [Angular Motion](https://alpha.editor.p5js.org/remylindsay/sketches/SJ2YRWf2G)
 - [Balls in Wind](https://alpha.editor.p5js.org/remylindsay/sketches/B1T2MUe3f)
 - [Circular Motion](https://alpha.editor.p5js.org/remylindsay/sketches/rJkx1Gzhf)
-- [Curve Tracer](https://alpha.editor.p5js.org/remylindsay/sketches/rkPDZUe3G)
 - [Gravity](https://alpha.editor.p5js.org/remylindsay/sketches/SJqhkMGhz)
 - [Mass Steering](https://alpha.editor.p5js.org/remylindsay/sketches/r1NERWihz)
 - [Particle Systems](https://alpha.editor.p5js.org/remylindsay/sketches/B1Th33Bhz)
