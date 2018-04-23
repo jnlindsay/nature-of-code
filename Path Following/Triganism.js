@@ -1,7 +1,7 @@
 function Triganism() {
 
   this.maxSpeed = 4;
-  this.maxForce = 10;
+  this.maxForce = 1;
 
   this.r = new p5.Vector(random(0, width), random(0, height));
   this.v = new p5.Vector(100, 0);

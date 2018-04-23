@@ -19,6 +19,10 @@ function keyPressed() {
 	path = new Path(100, 0);
 }
 
+setInterval(function() {
+	path = new Path(100, 0);
+}, 3000);
+
 function draw() {
 
 	background(0);
