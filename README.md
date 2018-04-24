@@ -5,6 +5,7 @@
 - [Balls in Wind](https://alpha.editor.p5js.org/remylindsay/sketches/B1T2MUe3f)
 - [Cellular Automata](https://alpha.editor.p5js.org/remylindsay/sketches/SyFdoeh2M)
 - [Circular Motion](https://alpha.editor.p5js.org/remylindsay/sketches/rJkx1Gzhf)
+- [Game of Life](https://alpha.editor.p5js.org/remylindsay/sketches/HkUeDo2nM)
 - [Gravity](https://alpha.editor.p5js.org/remylindsay/sketches/SJqhkMGhz)
 - [Mass Steering](https://alpha.editor.p5js.org/remylindsay/sketches/r1NERWihz)
 - [Particle Systems](https://alpha.editor.p5js.org/remylindsay/sketches/B1Th33Bhz)
