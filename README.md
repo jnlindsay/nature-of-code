@@ -3,6 +3,7 @@
 - [Accelerating Ball](https://alpha.editor.p5js.org/remylindsay/sketches/BJiaabMhf)
 - [Angular Motion](https://alpha.editor.p5js.org/remylindsay/sketches/SJ2YRWf2G)
 - [Balls in Wind](https://alpha.editor.p5js.org/remylindsay/sketches/B1T2MUe3f)
+- [Cellular Automata](https://alpha.editor.p5js.org/remylindsay/sketches/SyFdoeh2M)
 - [Circular Motion](https://alpha.editor.p5js.org/remylindsay/sketches/rJkx1Gzhf)
 - [Gravity](https://alpha.editor.p5js.org/remylindsay/sketches/SJqhkMGhz)
 - [Mass Steering](https://alpha.editor.p5js.org/remylindsay/sketches/r1NERWihz)
