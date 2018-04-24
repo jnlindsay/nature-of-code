@@ -10,7 +10,15 @@ function Triganism() {
 
 }
 
+Triganism.prototype.applyForce = function(force) {
+  this.a.add(force);
+}
+
 Triganism.prototype.gen = function() {
+
+  // random movement
+  var jiggle = createVector(random(-1, 1), random(-1, 1));
+  this.v.add(jiggle);
 
   // constrain velocity
   this.v.x = constrain(this.v.x, -this.maxSpeed, this.maxSpeed);
@@ -48,10 +56,6 @@ Triganism.prototype.gen = function() {
   // reset acceleration
   this.a.mult(0);
 
-}
-
-Triganism.prototype.applyForce = function(force) {
-  this.a.add(force);
 }
 
 Triganism.prototype.average = function(triganisms) {
