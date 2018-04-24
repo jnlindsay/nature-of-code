@@ -6,7 +6,7 @@ function setup() {
 
 	// frameRate(1);
 
-	game = new Game(70, 700); // numCells, numAlive
+	game = new Game(50, 500); // numCells, numAlive
 
 }
 
